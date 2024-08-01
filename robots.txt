@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rubesoa.github.io/sitemap.html.gz
+Sitemap: https://rubesoa.github.io/app/sitemap.html.gz
+Sitemap: https://rubesoa.github.io/assets/sitemap.html.gz
+Sitemap: https://rubesoa.github.io/css/sitemap.html.gz
+Sitemap: https://rubesoa.github.io/includes/sitemap.html.gz
+Sitemap: https://rubesoa.github.io/item/sitemap.html.gz
+Sitemap: https://rubesoa.github.io/src/sitemap.html.gz
